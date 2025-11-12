@@ -1,0 +1,15 @@
+{
+  "r2": 0.62,
+  "rmse": 1543.21,
+  "mae": 820.13,
+  "channel_roas": {
+    "Facebook": 1.25,
+    "Google": 1.8,
+    "Email": 1.1,
+    "Affiliate": 1.4,
+    "TV": 0.9,
+    "Organic": 3.2,
+    "LinkedIn": 1.6,
+    "Instagram": 1.3
+  }
+}
